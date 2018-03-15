@@ -8,6 +8,6 @@
     "sourceMap": true
   },
   "files": [
-    "class_decorator.ts"
+    "method_decorator.ts"
   ]
 } 
